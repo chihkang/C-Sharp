@@ -1,0 +1,5 @@
+c:\users\lin\documents\visual studio 2012\Projects\MVC_chap03\MVC_chap03\bin\Debug\MVC_chap03.exe.config
+c:\users\lin\documents\visual studio 2012\Projects\MVC_chap03\MVC_chap03\obj\Debug\MVC_chap03.exe
+c:\users\lin\documents\visual studio 2012\Projects\MVC_chap03\MVC_chap03\obj\Debug\MVC_chap03.pdb
+c:\users\lin\documents\visual studio 2012\Projects\MVC_chap03\MVC_chap03\bin\Debug\MVC_chap03.exe
+c:\users\lin\documents\visual studio 2012\Projects\MVC_chap03\MVC_chap03\bin\Debug\MVC_chap03.pdb

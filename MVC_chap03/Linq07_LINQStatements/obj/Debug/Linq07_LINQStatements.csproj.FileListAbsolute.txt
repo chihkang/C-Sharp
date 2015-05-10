@@ -1,0 +1,6 @@
+C:\Users\Lin\Documents\Visual Studio 2012\Projects\MVC_chap03\Linq07_LINQStatements\bin\Debug\Linq07_LINQStatements.exe.config
+C:\Users\Lin\Documents\Visual Studio 2012\Projects\MVC_chap03\Linq07_LINQStatements\bin\Debug\Linq07_LINQStatements.exe
+C:\Users\Lin\Documents\Visual Studio 2012\Projects\MVC_chap03\Linq07_LINQStatements\bin\Debug\Linq07_LINQStatements.pdb
+C:\Users\Lin\Documents\Visual Studio 2012\Projects\MVC_chap03\Linq07_LINQStatements\obj\Debug\Linq07_LINQStatements.exe
+C:\Users\Lin\Documents\Visual Studio 2012\Projects\MVC_chap03\Linq07_LINQStatements\obj\Debug\Linq07_LINQStatements.pdb
+C:\Users\Lin\Documents\Visual Studio 2012\Projects\MVC_chap03\Linq07_LINQStatements\obj\Debug\Linq07_LINQStatements.csprojResolveAssemblyReference.cache

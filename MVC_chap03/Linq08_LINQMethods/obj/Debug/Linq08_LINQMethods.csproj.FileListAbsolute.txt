@@ -1,0 +1,5 @@
+C:\Users\Lin\Documents\Visual Studio 2012\Projects\MVC_chap03\Linq08_LINQMethods\bin\Debug\Linq08_LINQMethods.exe.config
+C:\Users\Lin\Documents\Visual Studio 2012\Projects\MVC_chap03\Linq08_LINQMethods\bin\Debug\Linq08_LINQMethods.exe
+C:\Users\Lin\Documents\Visual Studio 2012\Projects\MVC_chap03\Linq08_LINQMethods\bin\Debug\Linq08_LINQMethods.pdb
+C:\Users\Lin\Documents\Visual Studio 2012\Projects\MVC_chap03\Linq08_LINQMethods\obj\Debug\Linq08_LINQMethods.exe
+C:\Users\Lin\Documents\Visual Studio 2012\Projects\MVC_chap03\Linq08_LINQMethods\obj\Debug\Linq08_LINQMethods.pdb

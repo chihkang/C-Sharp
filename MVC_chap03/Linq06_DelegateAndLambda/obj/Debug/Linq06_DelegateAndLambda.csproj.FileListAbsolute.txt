@@ -1,0 +1,5 @@
+C:\Users\Lin\Documents\Visual Studio 2012\Projects\MVC_chap03\Linq06_DelegateAndLambda\bin\Debug\Linq06_DelegateAndLambda.exe.config
+C:\Users\Lin\Documents\Visual Studio 2012\Projects\MVC_chap03\Linq06_DelegateAndLambda\bin\Debug\Linq06_DelegateAndLambda.exe
+C:\Users\Lin\Documents\Visual Studio 2012\Projects\MVC_chap03\Linq06_DelegateAndLambda\bin\Debug\Linq06_DelegateAndLambda.pdb
+C:\Users\Lin\Documents\Visual Studio 2012\Projects\MVC_chap03\Linq06_DelegateAndLambda\obj\Debug\Linq06_DelegateAndLambda.exe
+C:\Users\Lin\Documents\Visual Studio 2012\Projects\MVC_chap03\Linq06_DelegateAndLambda\obj\Debug\Linq06_DelegateAndLambda.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lin\Documents\Visual Studio 2012\Projects\MVC_chap03\Linq03-ImplementExtensionMethod\bin\Debug\Linq03-ImplementExtensionMethod.exe.config
+C:\Users\Lin\Documents\Visual Studio 2012\Projects\MVC_chap03\Linq03-ImplementExtensionMethod\bin\Debug\Linq03-ImplementExtensionMethod.exe
+C:\Users\Lin\Documents\Visual Studio 2012\Projects\MVC_chap03\Linq03-ImplementExtensionMethod\bin\Debug\Linq03-ImplementExtensionMethod.pdb
+C:\Users\Lin\Documents\Visual Studio 2012\Projects\MVC_chap03\Linq03-ImplementExtensionMethod\obj\Debug\Linq03-ImplementExtensionMethod.csprojResolveAssemblyReference.cache
+C:\Users\Lin\Documents\Visual Studio 2012\Projects\MVC_chap03\Linq03-ImplementExtensionMethod\obj\Debug\Linq03-ImplementExtensionMethod.exe
+C:\Users\Lin\Documents\Visual Studio 2012\Projects\MVC_chap03\Linq03-ImplementExtensionMethod\obj\Debug\Linq03-ImplementExtensionMethod.pdb

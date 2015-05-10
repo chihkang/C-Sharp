@@ -1,0 +1,5 @@
+C:\Users\Lin\Documents\Visual Studio 2012\Projects\MVC_chap03\Linq05_IEnumerableAndYield\bin\Debug\Linq05_IEnumerableAndYield.exe.config
+C:\Users\Lin\Documents\Visual Studio 2012\Projects\MVC_chap03\Linq05_IEnumerableAndYield\bin\Debug\Linq05_IEnumerableAndYield.exe
+C:\Users\Lin\Documents\Visual Studio 2012\Projects\MVC_chap03\Linq05_IEnumerableAndYield\bin\Debug\Linq05_IEnumerableAndYield.pdb
+C:\Users\Lin\Documents\Visual Studio 2012\Projects\MVC_chap03\Linq05_IEnumerableAndYield\obj\Debug\Linq05_IEnumerableAndYield.exe
+C:\Users\Lin\Documents\Visual Studio 2012\Projects\MVC_chap03\Linq05_IEnumerableAndYield\obj\Debug\Linq05_IEnumerableAndYield.pdb

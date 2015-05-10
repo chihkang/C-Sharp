@@ -1,0 +1,5 @@
+c:\users\lin\documents\visual studio 2012\Projects\MVC_chap03\Linq01-CollectionWithoutLINQ\bin\Debug\Linq01-CollectionWithoutLINQ.exe.config
+c:\users\lin\documents\visual studio 2012\Projects\MVC_chap03\Linq01-CollectionWithoutLINQ\bin\Debug\Linq01-CollectionWithoutLINQ.exe
+c:\users\lin\documents\visual studio 2012\Projects\MVC_chap03\Linq01-CollectionWithoutLINQ\bin\Debug\Linq01-CollectionWithoutLINQ.pdb
+c:\users\lin\documents\visual studio 2012\Projects\MVC_chap03\Linq01-CollectionWithoutLINQ\obj\Debug\Linq01-CollectionWithoutLINQ.exe
+c:\users\lin\documents\visual studio 2012\Projects\MVC_chap03\Linq01-CollectionWithoutLINQ\obj\Debug\Linq01-CollectionWithoutLINQ.pdb

@@ -1,0 +1,5 @@
+C:\Users\Lin\Documents\Visual Studio 2012\Projects\MVC_chap03\Linq04_AnonymousType\bin\Debug\Linq04_AnonymousType.exe.config
+C:\Users\Lin\Documents\Visual Studio 2012\Projects\MVC_chap03\Linq04_AnonymousType\bin\Debug\Linq04_AnonymousType.exe
+C:\Users\Lin\Documents\Visual Studio 2012\Projects\MVC_chap03\Linq04_AnonymousType\bin\Debug\Linq04_AnonymousType.pdb
+C:\Users\Lin\Documents\Visual Studio 2012\Projects\MVC_chap03\Linq04_AnonymousType\obj\Debug\Linq04_AnonymousType.exe
+C:\Users\Lin\Documents\Visual Studio 2012\Projects\MVC_chap03\Linq04_AnonymousType\obj\Debug\Linq04_AnonymousType.pdb
